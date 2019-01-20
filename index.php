@@ -53,7 +53,7 @@ error_reporting(0);
 </ul>
 <hr>
 <h2 style="color: #636363">Contact Form</h2>
-<form id="contactForm">
+<form id="contactForm" action="" method="POST">
     <input type="text" id="name" class="form-control" placeholder="Your Name Here" name="name">
 <input type="text" id="email" class="form-control" placeholder="Your Email Here" name="email" required>
 <input type="text" id="subject" class="form-control" placeholder="Subject" name="subject" required>
@@ -80,7 +80,7 @@ error_reporting(0);
 </div>
 </body>
 
-
+</html>
 <?php
 require_once('phpmailer/PHPMailerAutoload.php');
 
@@ -142,4 +142,3 @@ $to2 = "idrixy101@hotmail.com";
 
 ?>
 
-</html>
