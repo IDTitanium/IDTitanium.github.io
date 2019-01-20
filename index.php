@@ -20,7 +20,7 @@ error_reporting(0);
 <div class="container">
 <center><h1 style="color: #636363" id="headstyle">IDRIS LAWAL PORTFOLIO</h1></center>
 <hr>
-<img src="avatar.png" class="img-style">
+<img src="images/avatar.png" class="img-style">
 <h2 style="color: #636363"> Description</h2>
 <p>Idris Lawal is a Tech Enthusiast who has acquired skills in computer networking, computer hardware engineering and Web development.</p>
 <a href="docs/idris-lawal-cv.pdf" download><button class="btn">Download My CV</button></a>
