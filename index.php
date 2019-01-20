@@ -118,7 +118,7 @@ $to2 = "idrixy101@hotmail.com";
     $mail->Port = 465;                                    // Set the SMTP port
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = 'idriseun222@gmail.com';                // SMTP username
-    $mail->Password = 'passwork';                  // SMTP password
+    $mail->Password = 'passwork@';                  // SMTP password
     $mail->SMTPSecure = 'ssl';                            // Enable encryption, 'ssl' also accepted
 
     $mail->From = $email;
