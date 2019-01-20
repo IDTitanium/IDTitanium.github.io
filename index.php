@@ -54,10 +54,10 @@ error_reporting(0);
 <hr>
 <h2 style="color: #636363">Contact Form</h2>
 <form id="contactForm">
-    <input type="text" id="name" class="form-control" placeholder="Your Name Here">
-<input type="text" id="email" class="form-control" placeholder="Your Email Here" required>
-<input type="text" id="subject" class="form-control" placeholder="Subject" required>
-<textarea type="text" id="msg" placeholder="Your Message Here" required></textarea>
+    <input type="text" id="name" class="form-control" placeholder="Your Name Here" name="name">
+<input type="text" id="email" class="form-control" placeholder="Your Email Here" name="email" required>
+<input type="text" id="subject" class="form-control" placeholder="Subject" name="subject" required>
+<textarea type="text" id="msg" placeholder="Your Message Here" name="msg" required></textarea>
 <input type="submit" class="btn" value="Send Message to Idris" name="submit">
 </form>
 
