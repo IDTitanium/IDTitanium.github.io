@@ -81,9 +81,6 @@ error_reporting(0);
 </body>
 
 
-
-</html>
-
 <?php
 require_once('phpmailer/PHPMailerAutoload.php');
 
@@ -140,6 +137,9 @@ $to2 = "idrixy101@hotmail.com";
 } else {
    echo "<center><strong><h4><p style='color:green'>Message has been sent.</p></h4></strong></center>";
 }
+}
 
 
 ?>
+
+</html>
