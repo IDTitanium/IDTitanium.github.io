@@ -112,6 +112,7 @@ $to2 = "idrixy101@hotmail.com";
 
     $message = wordwrap($msg);
     $mail = new PHPMailer;
+    $mail->SMTPDebug = 1;
     $mail->IsSMTP();                                      // Set mailer to use SMTP
     $mail->Host = 'smtp.gmail.com';                 // Specify main and backup server
     $mail->Port = 465;                                    // Set the SMTP port
