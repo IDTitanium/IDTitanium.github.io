@@ -118,7 +118,7 @@ $to2 = "idrixy101@hotmail.com";
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = 'currentvoltage82@gmail.com';                // SMTP username
     $mail->Password = 'passwork';                  // SMTP password
-    $mail->SMTPSecure = 'tls';                            // Enable encryption, 'ssl' also accepted
+    $mail->SMTPSecure = 'ssl';                            // Enable encryption, 'ssl' also accepted
 
     $mail->From = $email;
     $mail->FromName = $name ." at portfolio page";
