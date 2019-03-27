@@ -33,7 +33,7 @@ error_reporting(0);
 <hr>
 <img src="images/avatar.png" class="img-style">
 <h2 style="color: #636363"> Description</h2>
-<p>Idris Lawal is a Tech Enthusiast who has acquired skills in computer networking, computer hardware engineering and Web development.</p>
+<h4><p>Idris Lawal is a Tech Enthusiast who has acquired skills in computer networking, computer hardware engineering and Web development.</p></h4>
 <a href="docs/idris-lawal-cv.pdf" download><button class="btn">Download My CV</button></a>
 <hr>
 <h2 style="color: #636363"> Contacts</h2>
@@ -53,13 +53,13 @@ error_reporting(0);
 
 <hr>
 <h2 style="color: #636363"> Technologies Used</h2>
-<p>Networking - Cisco IOS, DNS service, IP addressing and Subnetting</p>
-<p>Web Development - HTML5, CSS 3, Boostrap, PHP, MySQL.</p>
+<p><h4>Networking - Cisco IOS, DNS service, IP addressing and Subnetting</h4></p>
+<p><h4>Web Development - HTML5, CSS 3, Boostrap, PHP, MySQL.</h4></p>
 <hr>
 <h2 style="color: #636363">Projects</h2>
 <h3 style="color: #636363">Hello Assur Web Platform</h3>
 <ul>
-<li>A web platform for the launch of a new digital health plan that enabled subscribers to buy the plan and book appointment with a doctor online. This was fully achieved by integrating the API of a payment platform and PHP and MySQL to handle the backend. HTML, CSS, Bootstrap 3 and JavaScript were used for the frontend. </li>
+<li><h4>A web platform for the launch of a new digital health plan that enabled subscribers to buy the plan and book appointment with a doctor online. This was fully achieved by integrating the API of a payment platform and PHP and MySQL to handle the backend. HTML, CSS, Bootstrap 3 and JavaScript were used for the frontend. </h4></li>
 <p></p><a href="https://healthassur.com/Hello-Assur.php"><button class="btn">Read More</button></a></p>
 </ul>
 <!--
