@@ -28,21 +28,7 @@ error_reporting(0);
 	<!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
 
 </head>
-<style>
-.container{
-	margin-top: 20px;
-	margin-bottom: 20px;
-    margin-left: 200px;
-    margin-right: 200px;
-    /*box-shadow: 5px 1px 8px 5px #d3d3d3; */
-	padding: 40px;
-	border-radius: 10px;
-   /* background: linear-gradient; */
-    background-repeat: no-repeat;
-    background-color: #fff !important;
-    color: #000;
-}
-</style>
+
 <body>
 <div class="container">
 <center><h1 style="color: #636363" id="headstyle">IDRIS LAWAL PORTFOLIO</h1></center>
@@ -104,8 +90,8 @@ error_reporting(0);
     <div class="bubble x5"></div>
     <div class="bubble x6"></div>
     <div class="bubble x7"></div>
-    <div class="bubble x8"></div>
-</div> --> 
+    <div class="bubble x8"></div>-->
+</div> 
 </body>
 
 </html>
