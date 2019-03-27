@@ -24,6 +24,8 @@ error_reporting(0);
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <title>Idris Lawal</title>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 </head>
 
 <body>
@@ -47,7 +49,7 @@ error_reporting(0);
     </table>
     
     </ul>
-    <a href="#name">Click Here to use the Contact Form</a>
+<!--    <a href="#name">Click Here to use the Contact Form</a> -->
 
 
 <hr>
@@ -59,8 +61,9 @@ error_reporting(0);
 <h3 style="color: #636363">Hello Assur Web Platform</h3>
 <ul>
 <li>A web platform for the launch of a new digital health plan that enabled subscribers to buy the plan and book appointment with a doctor online. This was fully achieved by integrating the API of a payment platform and PHP and MySQL to handle the backend. HTML, CSS, Bootstrap 3 and JavaScript were used for the frontend. </li>
-<p></p><a href="projects.html"><button class="btn">Read More</button></a></p>
+<p></p><a href="https://healthassur.com/Hello-Assur.php"><button class="btn">Read More</button></a></p>
 </ul>
+<!--
 <hr>
 <h2 style="color: #636363">Contact Form</h2>
 <form id="contactForm" action="" method="POST">
@@ -71,8 +74,8 @@ error_reporting(0);
 <input type="submit" class="btn" value="Send Message to Idris" name="submit">
 </form>
 
-<!-- 
-<div id="background-wrap">
+-->
+<!-- <div id="background-wrap">
     <div class="bubble x1"></div>
     <div class="bubble x2"></div>
     <div class="bubble x3"></div>
@@ -87,7 +90,7 @@ error_reporting(0);
     <div class="bubble x6"></div>
     <div class="bubble x7"></div>
     <div class="bubble x8"></div>
-</div> -->
+</div> --> -->
 </body>
 
 </html>
