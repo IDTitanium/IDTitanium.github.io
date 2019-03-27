@@ -39,11 +39,11 @@ error_reporting(0);
 <h2 style="color: #636363"> Contacts</h2>
 <ul>
     <table>
-    <tr><td><li class="fa fa-github"><b>&nbsp: </b></td><td><a href="https://github.com/IDTitanium" target="_blank">github.com/IDTitanium</a></li></td></tr>
+    <tr><td><li class="fa fa-github"><b>&nbsp; </b></td><td><a href="https://github.com/IDTitanium" target="_blank">github.com/IDTitanium</a></li></td></tr>
     
-    <tr><td><li class="fa fa-linkedin"><b>&nbsp: </b></td><td><a href="https://linkedin.com/in/lawal-idris-oluwaseun" target="_blank">linkedin.com/in/lawal-idris-oluwaseun</a></li></td></tr>
-    <tr><td><li class="fa fa-twitter"><b>&nbsp: </b></td><td><a href="https://twitter.com/oluwaseunmi" target="_blank">twitter.com/oluwaseunmi</a></li></td></tr>
-    <tr><td><li class="fa fa-envelope"><b>&nbsp: </b></td><td><a href="mailto:idriseun222@gmail.com">idriseun222@gmail.com</a></li></td></tr>
+    <tr><td><li class="fa fa-linkedin"><b>&nbsp; </b></td><td><a href="https://linkedin.com/in/lawal-idris-oluwaseun" target="_blank">linkedin.com/in/lawal-idris-oluwaseun</a></li></td></tr>
+    <tr><td><li class="fa fa-twitter"><b>&nbsp; </b></td><td><a href="https://twitter.com/oluwaseunmi" target="_blank">twitter.com/oluwaseunmi</a></li></td></tr>
+    <tr><td><li class="fa fa-envelope"><b>&nbsp; </b></td><td><a href="mailto:idriseun222@gmail.com">idriseun222@gmail.com</a></li></td></tr>
     
     </table>
     
