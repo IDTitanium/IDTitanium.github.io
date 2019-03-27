@@ -12,7 +12,7 @@ error_reporting(0);
 <!--<link rel="stylesheet" href="font-awesome.min.css">-->
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <!--<link rel="stylesheet" href="bootstrap.min.css">-->
-<script src="js/index.js"></script>
+<!-- <script src="js/index.js"></script> -->
 <!-- <script src="js/require.js"></script> -->
 <!-- <script src="js/mailer.js"></script> -->
 <!-- Latest compiled and minified CSS -->
@@ -22,12 +22,27 @@ error_reporting(0);
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
 <!-- Latest compiled and minified JavaScript -->
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <title>Idris Lawal</title>
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
 
 </head>
-
+<style>
+.container{
+	margin-top: 20px;
+	margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    /*box-shadow: 5px 1px 8px 5px #d3d3d3; */
+	padding: 40px;
+	border-radius: 10px;
+   /* background: linear-gradient; */
+    background-repeat: no-repeat;
+    background-color: #fff !important;
+    color: #000;
+}
+</style>
 <body>
 <div class="container">
 <center><h1 style="color: #636363" id="headstyle">IDRIS LAWAL PORTFOLIO</h1></center>
@@ -90,7 +105,7 @@ error_reporting(0);
     <div class="bubble x6"></div>
     <div class="bubble x7"></div>
     <div class="bubble x8"></div>
-</div> --> -->
+</div> --> 
 </body>
 
 </html>
