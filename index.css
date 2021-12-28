@@ -1,0 +1,48 @@
+/*HTML TAGS*/
+body {
+	color: green;
+	background-color: black;
+	font-size: 16px;
+}
+
+a {
+	color: white;
+	font-weight: bold;
+}
+
+button {
+	color: white;
+	background-color: blue;
+	border-radius: 20px;
+}
+
+h1 {
+	font-family: Arial;
+}
+
+p {
+	text-align: justify;
+}
+
+img {
+	border-radius: 50%;
+	border: solid white;
+}
+
+/*CLASSES*/
+.main-class {
+	text-align: center;
+	margin-left: 10rem;
+	margin-right: 10rem;
+}
+
+/*ID*/
+
+#second-paragraph {
+	color: white;
+}
+
+#second-paragraph a {
+	color: green;
+}
+
